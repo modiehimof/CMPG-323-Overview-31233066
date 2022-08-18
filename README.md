@@ -6,6 +6,7 @@ CMPG 323 Project 4 <student number> and will be used for Project 4.
 CMPG 323 Project 5 <student number> and will be used for Project 5.
   
 # Diagram
+![2022-08-18](https://user-images.githubusercontent.com/110569525/185413021-4a9b6daa-8eb3-4bef-805b-dbaec672228d.png)
 
 # Branching Strategies 
  Project 2 - as Project 2 deals with the IoT Device Management System that uses Representational State Transfer (REST) model , the branching strategy that can be used is Github Flow because it focuses on Agile principles and it is a fast and streamlined branching strategy.
